@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Wish me on GitHub",
+    "description": "Get festival wishes on GitHub so that you don't miss them out in your geeky coding life!",
+    "version": "1",
+    "author": "Vatsal Joshi",
+    "homepage_url": "https://github.com/vatz88/Wish-me-on-GitHub",
+    "content_scripts": [{
+        "matches": ["https://github.com/+*"],
+        "js": ["jquery.min.js", "script.js"],
+        "run_at": "document_end"
+    }]
+}
