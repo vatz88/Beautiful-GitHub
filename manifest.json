@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "Beautiful GitHub",
-    "description": "Beautiful color for contributions graph randomly picked!",
-    "version": "1.0.0",
+    "description": "Beautiful new colors for GitHub contributions graph picked randomly.",
+    "version": "1.0.1",
     "author": "Vatsal Joshi",
     "homepage_url": "https://github.com/vatz88/Beautiful-GitHub",
     "content_scripts": [{
