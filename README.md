@@ -6,9 +6,9 @@ Chrome Extension: Beautiful new colors for GitHub contributions graph picked ran
 
 The above GIF depicts different colors available in the extension.
 
-<!-- ## Getting Started -->
+## Getting Started
 
-<!-- Install the extension from [Chrome Store](Chrome Store link) -->
+Install the extension from [Chrome Store](https://chrome.google.com/webstore/detail/beautiful-github/dhbppboodcppiohhdjgdldpeemcfheen).
 
 ## Contributing
 
