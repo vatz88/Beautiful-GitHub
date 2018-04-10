@@ -18,7 +18,7 @@ var all_new_colors = [
     // Teal
     // ["#A7FFEB", "#64FFDA", "#1DE9B6", "#00BFA5"],
     // Green
-    ["#B9F6CA", "#69F0AE", "#00E676", "#00C853"],
+    // ["#B9F6CA", "#69F0AE", "#00E676", "#00C853"],
     // Light Green
     // ["#CCFF90", "#B2FF59", "#76FF03", "#64DD17"],
     // Lime
