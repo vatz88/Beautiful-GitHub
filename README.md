@@ -1,6 +1,6 @@
 # Beautiful GitHub
 
-Chrome Extension: Beautiful new colors for GitHub contributions graph picked randomly each time you open a GitHub profile.
+Web Extension: Beautiful new colors for GitHub contributions graph picked randomly each time you open a GitHub profile.
 
 ![Demo](demo.gif "Demo")
 
@@ -9,6 +9,8 @@ The above GIF depicts different colors available in the extension.
 ## Getting Started
 
 Install the extension from [Chrome Store](https://chrome.google.com/webstore/detail/beautiful-github/dhbppboodcppiohhdjgdldpeemcfheen).
+
+You also install it on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/beautiful-github/).
 
 ## Contributing
 
