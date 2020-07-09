@@ -10,7 +10,7 @@ The above GIF depicts different colors available in the extension.
 
 Install the extension from [Chrome Store](https://chrome.google.com/webstore/detail/beautiful-github/dhbppboodcppiohhdjgdldpeemcfheen).
 
-You also install it on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/beautiful-github/).
+You can also install it on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/beautiful-github/).
 
 ## Contributing
 
