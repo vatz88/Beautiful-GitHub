@@ -1,3 +1,9 @@
+**⚠️ Extension unpublisted now**
+
+New github update made it non-functional and I'm not maintaining it anymore.
+
+---
+
 # Beautiful GitHub
 
 Web Extension: Beautiful new colors for GitHub contributions graph picked randomly each time you open a GitHub profile.
